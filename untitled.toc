@@ -1,0 +1,16 @@
+\contentsline {section}{\numberline {1}Personal Information}{2}% 
+\contentsline {section}{\numberline {2}Interest in IT}{3}% 
+\contentsline {subsection}{\numberline {2.1}What is your interest in it? }{3}% 
+\contentsline {subsection}{\numberline {2.2}why rmit?}{4}% 
+\contentsline {subsection}{\numberline {2.3}what do i expect to learn during my studies?}{4}% 
+\contentsline {section}{\numberline {3}Ideal Job}{4}% 
+\contentsline {subsection}{\numberline {3.1}The job advertisement itself. Include a link, and a snapshot of it}{4}% 
+\contentsline {subsection}{\numberline {3.2}A description of the position, and its appeal}{4}% 
+\contentsline {subsection}{\numberline {3.3}A description of the skills, qualifications and experience required for the position}{5}% 
+\contentsline {subsection}{\numberline {3.4}A description of the skills, qualifications and experience you have}{5}% 
+\contentsline {subsection}{\numberline {3.5}A plan of how to obtain the skills for the position}{5}% 
+\contentsline {section}{\numberline {4}Personal Profile}{6}% 
+\contentsline {subsection}{\numberline {4.1}Myers Briggs}{6}% 
+\contentsline {subsection}{\numberline {4.2}learningstyleetest}{6}% 
+\contentsline {subsection}{\numberline {4.3}Hexaco}{6}% 
+\contentsline {section}{\numberline {5}Project Idea}{6}% 
