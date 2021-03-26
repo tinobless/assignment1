@@ -11,6 +11,6 @@
 \contentsline {subsection}{\numberline {3.5}A plan of how to obtain the skills for the position}{5}% 
 \contentsline {section}{\numberline {4}Personal Profile}{6}% 
 \contentsline {subsection}{\numberline {4.1}Myers Briggs}{6}% 
-\contentsline {subsection}{\numberline {4.2}learningstyleetest}{6}% 
+\contentsline {subsection}{\numberline {4.2}EMTRAIN Learning Styles quiz}{6}% 
 \contentsline {subsection}{\numberline {4.3}Hexaco}{6}% 
 \contentsline {section}{\numberline {5}Project Idea}{6}% 
